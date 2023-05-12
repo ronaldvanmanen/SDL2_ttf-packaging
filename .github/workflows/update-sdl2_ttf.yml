@@ -1,4 +1,4 @@
-name: update-sdl2_ttf.yml
+name: update-sdl2_ttf
 
 on:
   schedule:
