@@ -7,10 +7,10 @@
     <owners>Ronald van Manen</owners>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <license type="expression">Zlib</license>
-    <projectUrl>https://github.com/ronaldvanmanen/SDL_ttfNuGetizer</projectUrl>
+    <projectUrl>https://github.com/ronaldvanmanen/SDL2_ttf-packaging</projectUrl>
     <description>Multi-platform native library for SDL2_ttf.</description>
     <copyright>Copyright © Ronald van Manen</copyright>
-    <repository type="git" url="https://github.com/ronaldvanmanen/SDL_ttfNuGetizer" />
+    <repository type="git" url="https://github.com/ronaldvanmanen/SDL2_ttf-packaging" />
     <dependencies>
       <group targetFramework="net6.0" />
       <group targetFramework="native0.0" />
