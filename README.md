@@ -2,8 +2,7 @@
 
 SDL2_ttf-packaging provides actions for automatically creating NuGet packages of SDL2_ttf binaries.
 
-[![nugetize-sdl2](https://github.com/ronaldvanmanen/SDL2_ttf-packaging/actions/workflows/nugetize-sdl2_ttf.yml/badge.svg)](https://github.com/ronaldvanmanen/SDL2_ttf-packaging/actions/workflows/nugetize-sdl2_ttf.yml)
-[![update-sdl2](https://github.com/ronaldvanmanen/SDL2_ttf-packaging/actions/workflows/update-sdl2_ttf.yml/badge.svg)](https://github.com/ronaldvanmanen/SDL2_ttf-packaging/actions/workflows/update-sdl2_ttf.yml)
+[![build](https://github.com/ronaldvanmanen/SDL2_ttf-packaging/actions/workflows/build.yml/badge.svg)](https://github.com/ronaldvanmanen/SDL2_ttf-packaging/actions/workflows/build.yml)
 
 ## Table of Contents
 
