@@ -148,7 +148,7 @@ if [ ! command -v nuget &> /dev/null ]; then
   alias nuget="mono $NuGetInstallPath"
 fi
 
-SDL2PackageSource="https://pkgs.dev.azure.com/ronaldvanmanen/SDL2Sharp/_packaging/SDL2Sharp/nuget/v3/index.json"
+SDL2PackageSource="https://pkgs.dev.azure.com/ronaldvanmanen/_packaging/ronaldvanmanen/nuget/v3/index.json"
 
 if [ -n "${NUGET_AUTH_TOKEN}" ]; then
   echo "$ScriptName: Settings API key for package source $SDL2PackageSource..."
